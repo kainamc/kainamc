@@ -21,7 +21,7 @@
 </div><br>
   
   <div>
-    <p>Alguns exemplares:</p>
+    <p>Alguns templates:</p>
     
  <ul>
   <li><a href="https://kainamc.github.io/CSSdesafio01-cartao-visita/">Cartão de Visita</a></li>
