@@ -1,4 +1,4 @@
-### Bem-vindo!! Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor.
+### Bem-vindo! Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor.
 
 - 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
 - 🌱 Atualmente estou estudando CSS.
