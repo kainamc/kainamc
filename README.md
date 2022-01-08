@@ -3,7 +3,7 @@
 - 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
 - 🌱 Atualmente estou estudando CSS.
 - 🐸 Podes me encontrar no meu [Instagram](www.instagram.com/kainademoura).
-- ⭐ Quem ensina, aprende em dobro... se eu puder lhe ajudar, será um prazer.
+- ⭐ Quem ensina aprende em dobro... se eu puder lhe ajudar, será um prazer.
 
 
 <div align="center">
