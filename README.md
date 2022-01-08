@@ -1,10 +1,9 @@
-### Salve! Me chamo kainã e esse é o meu 
+### 😃 Bem-vindo!! Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor.
 
-
-- 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto em andamento.
+- 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
 - 🌱 Atualmente estou estudando CSS.
-- 😄 Podes me encontrar no meu [Instagram](www.instagram.com/kainademoura).
-- ⚡ Fun fact: Quem ensina, aprende em dobro... por favor, fique a vontade.
+- 🐸 Podes me encontrar no meu [Instagram](www.instagram.com/kainademoura).
+- ⭐ Quem ensina, aprende em dobro... se eu puder lhe ajudar, será um prazer.
 
 
 <div align="center">
