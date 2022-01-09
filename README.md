@@ -21,10 +21,12 @@
 </div><br>
   
   <div>
-    <p>Alguns templates:</p>
+    <p>Alguns templates: <!--- <img align="right" src="https://static.ragnaplace.com/db/npc/gif/1884.gif" /></p> -->
     
  <ul>
-  <li><a href="https://kainamc.github.io/CSSdesafio01-cartao-visita/">Cartão de Visita</a></li>
+  <li><a href="https://kainamc.github.io/CSSdesafio01-cartao-visita/">Cartão de Visita</a>
+ 
+  </li>
   <li><a href="https://super-couscous-eb2ed3bb.pages.github.io/">Menu de Restautante</a></li>
  
 </ul>
