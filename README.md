@@ -1,4 +1,4 @@
-### <h1>Bem-vindo! Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor. </h1>
+### <h1>Bem-vindo!</h1> <h2> Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor. </h2>
 
 - 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
 - 🌱 Atualmente estou estudando CSS.
