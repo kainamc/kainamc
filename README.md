@@ -1,8 +1,8 @@
 ### <h1>Bem-vindo!</h1> <h2> Eu me chamo Kainã e é aqui onde eu salvo meus projetos como Desenvolvedor. </h2>
 
-- 🔭 Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
+- 👷‍ Não estou trabalhando no momento, tampouco possuo algum projeto profissional em andamento.
 - 🌱 Atualmente estou estudando CSS.
-- 🐸 Podes me encontrar no meu [Instagram](www.instagram.com/kainademoura).
+- 🐸 Podes me encontrar no meu [Instagram](htt://www.instagram.com/kainademoura).
 - ⭐ Quem ensina aprende em dobro... se eu puder lhe ajudar, será um prazer.
 
 
