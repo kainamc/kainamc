@@ -1,4 +1,3 @@
 ## 
 
-- JavaScript Churrascômetro.
-https://kainamc.github.io/exercicios/  
+https://kainamc.github.io/speedrun/
