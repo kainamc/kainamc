@@ -1,5 +1,4 @@
 ## 
 
 - JavaScript Churrascômetro.
-https://kainamc.github.io/churrascometro/
-  
+https://kainamc.github.io/exercicios/  
