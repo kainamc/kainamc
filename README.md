@@ -16,3 +16,5 @@
     ![Snake animation](https://github.com/kainamc/kainamc/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=kainamckainamc&repo=ELLEN2121&theme=dark)](https://github.com/kainamc/kainamc)
