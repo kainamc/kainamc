@@ -1,7 +1,7 @@
 ## Oi! Eu me chamo Kainã!
 
 - 🤓 Estudando: Node JS.
-- 🦉 Inglês: Intermediário.
+- 🦉 Inglês: Intermediário
 
 <div align="center">
   <a href="https://github.com/kainamc">
