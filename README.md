@@ -15,7 +15,12 @@
  
 </div>
 
-<div>
-<a href="https://kainamc.github.io/site-jaja/>
-https://github.com/kainamc/site-jaja/blob/master/images/logo.png
-</div>
+  <br>
+  <br>
+  
+  
+  <div>
+   <a href="https://kainamc.github.io/site-jaja/">
+    <img align="center" alt="Site JAJA Refrigeração" height="80" src="https://github.com/kainamc/site-jaja/blob/master/images/logo.png">
+    </a>
+  </div>
