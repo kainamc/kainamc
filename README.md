@@ -16,8 +16,6 @@
 </div>
 
 <div>
-<a>
-<img align="center" alt="JAJA-Refrigeração" height="60" src="https://github.com/kainamc/site-jaja/blob/master/images/logo.png">
-https://kainamc.github.io/site-jaja/
-</a>
+<a href="https://kainamc.github.io/site-jaja/>
+https://github.com/kainamc/site-jaja/blob/master/images/logo.png
 </div>
